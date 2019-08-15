@@ -1,7 +1,5 @@
 Dropper2 (now with more R@nd0m!)
 
-Cross compiling reverse/bind payload generator written in Go.
-
 As with the initial release of <a href="https://github.com/im4x5yn74x/dropper">Dropper</a>, navigate to your <a href="https://github.com/golang/go/wiki/SettingGOPATH">GOPATH</a> on your system and clone the repo using the `go get` command.
 
 <code>go get github.com/im4x5yn74x/dropper2</code>
